@@ -1,0 +1,29 @@
+body{
+            background-image: url(https://media.istockphoto.com/vectors/tricolor-brush-stroke-vector-id1009448862?k=6&m=1009448862&s=170667a&w=0&h=eYcYfH_dQpWJtJ5cSRWKmzl6UrhKRsO_-tTaFYXVMOM=);
+            background-repeat: no-repeat;
+            background-size: 1600px;
+            background-position: center;
+        }
+        div{
+            position: relative;
+            margin-top: 150px;
+            bottom: 63px;
+        }
+        
+        #img{
+            animation: name 2s linear 0s infinite  ;
+        }
+        @keyframes name {
+            from{transform: rotate(0deg);}
+            to{transform: rotate(360deg);}
+        }
+        span{
+            position: relative;
+            font-size: 100px;
+            top: 125px;
+        }
+        a{
+            text-decoration: none;
+            color: orangered;
+        }
+        

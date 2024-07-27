@@ -1,0 +1,138 @@
+body{
+   background-color: black;
+   background-image: url(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZ3emJ5c3A3YjZ0dTRrZHV5bGU2NzAyb283d2twdjVyc211YXk3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q520INNmm0WCgXGPtC/giphy.gif);
+   background-repeat: no-repeat;
+   background-position: center;
+   height: 920px;
+   width: 100%;
+   overflow: hidden;
+}
+.main{
+    width: min-content;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-bottom: 190px;
+}
+ol{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 600px;
+    margin-bottom: 200px;
+    position: relative;
+    right: 120px;
+}
+li{
+    display: flex;
+}
+ #A{
+    text-decoration: none;
+    color: white;
+ }
+ #B:hover{
+    color:orangered;
+ }
+ button:hover{
+    background-color:orangered;
+    color:black;
+ }
+ #list{
+    margin-left: 400px;
+    margin-bottom: 200px;
+    width:200px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+ }
+ ::placeholder{
+  text-align: center;
+  color: black;
+}
+ #imgg{
+    margin-bottom: 180px;
+ }
+ #B{
+    margin-left: 70px;
+ }
+ #Q{
+   color:white;
+ }
+ #AA{
+   color: orange;
+   position: relative;
+   font-size: 50px;
+   bottom: 350px;
+   left:1050px;
+ }
+ #AAA{
+   color: white;
+   position: relative;
+   font-size: 60px;
+   left: 950px; ;
+   bottom: 280px;
+ }
+ #BB{
+   color: green;
+   position: relative;
+   font-size: 50px;
+   left: 560px;
+   bottom:210px ;
+ }
+ #BBB{
+   color: white;
+   position: relative;
+   font-size: 20px;
+   left: 400px;
+   bottom:160px ;
+ }
+ #CC{
+   color: orange;
+   position: relative;
+   font-size: 85px;
+   left: 300px;
+   bottom:80px ;
+   animation: name 3s linear infinite;
+ }
+ @keyframes name{
+   0%{color: orange;}
+   50%{color: white;}
+   100%{color: green;}
+ }
+ #CCC{
+   color:white;
+   position: relative;
+   font-size: 20px;
+   left: 12px;
+   bottom:30px ;
+ }
+ #DD{
+   color:orange;
+   position: relative;
+   font-size: 95px;
+   right: 80px;
+   top: 70px;
+   animation: Name 3s linear infinite;
+ }
+ @keyframes Name{
+   0%{color: orange;}
+   50%{color: white;}
+   100%{color: green;}
+ }
+ #DDD{
+   position: relative;
+   bottom: 500px;
+   left: 100px;
+ }
+ #imggg{
+  position: relative;
+  right: 400px;
+  bottom: 200px;
+ }
+ #Z{
+  right: 800px;
+ }
+ #I{
+  position: relative;
+  right: 180px;
+ }
